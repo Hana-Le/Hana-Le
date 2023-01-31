@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning more about Statistical modelling, Data visalisation and Deep learning
 - ❤️ I love to create things that make life easier and more interesting, and I'm always on the lookout for new challenges and opportunities to learn and grow. Check out my projects to see what I've been up to!
 
-Feel free to reach out to me if you want to connect or collaborate 
+Feel free to reach out to me if you want to connect or collaborate 🥳
 
 <!--
 **Hana-Le/Hana-Le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
