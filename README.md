@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, welcome to my page 👋 :wave: :wave:
+I recently graduated from Macquarie University with a degree in Applied Statistics and have a passion for data analytics. I'm interested in Statistical modelling, Data visalisation and Deep learning.
+I love to create things that make a difference, and I'm always on the lookout for new challenges and opportunities to learn and grow. Check out my projects to see what I've been up to!
+
+Feel free to reach out to me if you want to connect or collaborate 😄
 
 <!--
 **Hana-Le/Hana-Le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
