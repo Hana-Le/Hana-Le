@@ -2,7 +2,7 @@
 
 **About me**
 
-- 💼  Fresh graduated from Macquarie University with a degree in Applied Statistics
+- 💼  Fresh graduate from Macquarie University with a degree in Applied Statistics
 - ⚡ Fun fact: Pretty dumb but always willing to learn 😄
 - 🌱 I’m currently learning more about Statistical modelling, Data visalisation and Deep learning
 - ❤️ I love to create things that make life easier and more interesting, and I'm always on the lookout for new challenges and opportunities to learn and grow. Check out my projects to see what I've been up to!
