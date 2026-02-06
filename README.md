@@ -2,12 +2,12 @@
 
 **About me**
 
-- 💼  Fresh graduate from Macquarie University with a degree in Applied Statistics
+- 💼  Background in Applied Statistics, currently working in a ML mission for a telco.
 - ⚡ Fun fact: Pretty dumb sometimes but always willing to learn 😄
-- 🌱 I’m currently learning more about Machine Learning, Deep Learning and Data Engineering
-- ❤️ I love to create things that make life easier and more interesting, and I'm always on the lookout for new challenges and opportunities to learn and grow. Check out my projects to see what I've been up to!
+- 🌱 I’m currently learning more about GenAI and Agentic AI
+- ❤️ I enjoy creating things that make life easier and more interesting, and I'm always on the lookout for new challenges and opportunities to learn and grow. Check out my projects to see what I've been up to!
 
-Feel free to reach out to me if you want to connect or collaborate 🥳
+
 
 <!--
 **Hana-Le/Hana-Le** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
